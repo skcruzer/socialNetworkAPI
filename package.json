@@ -11,8 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/skcruzer/socialNetworkAPI.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Sean Cruz",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/skcruzer/socialNetworkAPI/issues"
   },
