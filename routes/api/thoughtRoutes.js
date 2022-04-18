@@ -1,5 +1,3 @@
-const { runMain } = require('module')
-
 const router = require('express').Router()
 
 const { getAllThoughts, getThoughtById, createThought, addReaction, removeReaction, updateThought, deleteThought } = require('../../controllers/thoughtController')
