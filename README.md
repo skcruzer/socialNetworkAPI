@@ -21,15 +21,15 @@
 ## <h3 id='usage'>Usage</h3>
 <p> This application is not currently deployed, however you have the ability to use GET, POST, PUT, and DELETE methods for users and thoughts, as well as use POST and DELETE methods for thought reactions and friends lists. 
 
-Here's a walkthrough demonstrating the functionality of this API: 
+WalkThrough videos demonstrating the functionality of this API: 
 
 <iframe frameBorder='0' width='640' height='360' webkitallowfullscreen mozallowfullscreen allowfullscreen src="https://www.awesomescreenshot.com/embed?id=8462463&shareKey=fdeebe8d1d5f6bd3134580ae33e1f7f6"></iframe>
 <br>
-Link: <a href='https://www.awesomescreenshot.com/video/8462463?key=fdeebe8d1d5f6bd3134580ae33e1f7f6'target='_blank'>Social Network API Walkthrough Pt. 1</a>
+Link: <a href='https://www.awesomescreenshot.com/video/8462463?key=fdeebe8d1d5f6bd3134580ae33e1f7f6' target='_blank'>Social Network API Walkthrough Pt. 1</a>
 <br><br>
 <iframe frameBorder='0' width='640' height='360' webkitallowfullscreen mozallowfullscreen allowfullscreen src="https://www.awesomescreenshot.com/embed?id=8462612&shareKey=3d98131219c00030ac07e808b276782c"></iframe>
 <br>
-Link: <a href='https://www.awesomescreenshot.com/video/8462612?key=3d98131219c00030ac07e808b276782c'target='_blank'>Social Network API Walkthrough Pt. 2</a>
+Link: <a href='https://www.awesomescreenshot.com/video/8462612?key=3d98131219c00030ac07e808b276782c' target='_blank'>Social Network API Walkthrough Pt. 2</a>
 <br><br>
 </p>
 
