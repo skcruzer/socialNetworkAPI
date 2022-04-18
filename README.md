@@ -24,6 +24,7 @@
 WalkThrough videos demonstrating the functionality of this API: 
 
 <a href='https://www.awesomescreenshot.com/video/8462463?key=fdeebe8d1d5f6bd3134580ae33e1f7f6' target='_blank'>Social Network API Walkthrough Pt. 1</a>
+<br>
 <a href='https://www.awesomescreenshot.com/video/8462612?key=3d98131219c00030ac07e808b276782c' target='_blank'>Social Network API Walkthrough Pt. 2</a>
 </p>
 
