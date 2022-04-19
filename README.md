@@ -19,7 +19,7 @@
 <p> This application requires a local <code>NoSQL</code> server. Simply clone this repo to your local device and run the command <code>npm i</code> to install the Node packages. </p>
 
 ## <h3 id='usage'>Usage</h3>
-<p> This application is not currently deployed, however you have the ability to use GET, POST, PUT, and DELETE methods for users and thoughts, as well as use POST and DELETE methods for thought reactions and friends lists. 
+<p> This application is not currently deployed, however you have the ability to use GET, POST, PUT, and DELETE methods for users and thoughts, as well as use POST and DELETE methods for thought reactions and friends lists. Run either the command <code>npm start</code> or <code>nodemon</code> to start the server and use an API Client (Insomnia, Postman, etc.) to use the methods.
 
 WalkThrough videos demonstrating the functionality of this API: 
 
